@@ -1,4 +1,4 @@
-This Project about Conducting analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+This project involves conducting an analysis of Blinkit, a quick-commerce platform that allows users to order groceries and essentials online for doorstep delivery. The analysis focuses on Blinkit's sales performance, customer satisfaction, and inventory distribution, aiming to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 The KPIs used:
 * Total Sales
