@@ -1,4 +1,4 @@
-![Business Requirements_2](https://github.com/user-attachments/assets/41adac7d-6a4a-4e5b-a75e-1cc35e5c08e1)This Project about Conducting analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+This Project about Conducting analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 The KPIs used:
 * Total Sales
