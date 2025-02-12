@@ -5,7 +5,7 @@ The KPIs used:
 * Average Sales
 * Number of Items
 * Average Rating
-
+  
 Requirements that will be illustrated using charts in the dashboard:
 * Show how the different KPI metrics vary with
  1. Fat Content
