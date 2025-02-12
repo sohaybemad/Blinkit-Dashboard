@@ -11,7 +11,6 @@ Requirements that will be illustrated using charts in the dashboard:
  1. Fat Content
  2. Item Type
  3. different outlets segmented by fat content
-    
 * Evaluate how the age or type of outlet establishment influences total sales.
 * Analyze the correlation between outlet size and total sales.
 * Assess the geographic distribution of sales across different locations.
